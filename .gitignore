@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.gradio/
+.venv/
+venv/
+outputs/
+*.wav
+*.log

@@ -1,0 +1,12 @@
+name: kokoro-tts
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - gradio==6.14.0
+      - kokoro>=0.8.2,<1.0
+      - misaki[zh]>=0.8.2,<1.0
+      - numpy
+      - soundfile
