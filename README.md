@@ -15,6 +15,8 @@ license: apache-2.0
 
 Gradio Space for `hexgrad/Kokoro-82M-v1.1-zh` with the built-in Kokoro voices.
 
+Live demo: https://huggingface.co/spaces/hnamt/kakoro-TTS-zh-en
+
 ## Deploy
 
 Create a new Hugging Face Space with the Gradio SDK, then push these files:
